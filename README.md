@@ -25,4 +25,6 @@ ollama pull nomic-embed-text
 ```
 ## Dependências
 
+```bash
 pip install requests
+```

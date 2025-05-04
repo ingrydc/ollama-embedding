@@ -22,7 +22,7 @@ Este projeto demonstra como gerar vetores de embeddings utilizando o [Ollama](ht
 
 ```bash
 ollama pull nomic-embed-text
-
-
+```
+## Dependências
 
 pip install requests
